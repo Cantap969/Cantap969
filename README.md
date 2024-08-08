@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 ![1000055508](https://github.com/user-attachments/assets/99d7cd53-51a7-4d51-b1a0-d32bcb2e08ee)
 ![1000055366](https://github.com/user-attachments/assets/60bca464-e241-4ff3-868d-d366ca841c52)
 ![1000055600](https://github.com/user-attachments/assets/9d7f53d5-9afd-45e6-b56d-b7385a57ef70)
-![1000055685](https://github.com/user-attachments/assets/4bda97ae-c0be-4d9c-b048-62f66011674b)
+![1000055685](cantap64.cb.id)
 
 ใช้Control + Shift + mเพื่อสลับtabการโฟกัสของปุ่ม หรืออีกวิธีหนึ่งคือใช้escthen tabเพื่อย้ายไปยังองค์ประกอบแบบโต้ตอบถัดไปบนเพจ
 ไม่ได้เลือกไฟล์ใด
